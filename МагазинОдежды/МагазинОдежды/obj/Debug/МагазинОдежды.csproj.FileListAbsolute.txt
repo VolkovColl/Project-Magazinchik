@@ -1,0 +1,17 @@
+C:\Users\Dima-\source\repos\МагазинОдежды\МагазинОдежды\bin\Debug\Магазин Одежды.accdb
+C:\Users\Dima-\source\repos\МагазинОдежды\МагазинОдежды\bin\Debug\МагазинОдежды.exe.config
+C:\Users\Dima-\source\repos\МагазинОдежды\МагазинОдежды\bin\Debug\МагазинОдежды.exe
+C:\Users\Dima-\source\repos\МагазинОдежды\МагазинОдежды\bin\Debug\МагазинОдежды.pdb
+C:\Users\Dima-\source\repos\МагазинОдежды\МагазинОдежды\obj\Debug\МагазинОдежды.csproj.AssemblyReference.cache
+C:\Users\Dima-\source\repos\МагазинОдежды\МагазинОдежды\obj\Debug\МагазинОдежды.Form1.resources
+C:\Users\Dima-\source\repos\МагазинОдежды\МагазинОдежды\obj\Debug\МагазинОдежды.Form2.resources
+C:\Users\Dima-\source\repos\МагазинОдежды\МагазинОдежды\obj\Debug\МагазинОдежды.Properties.Resources.resources
+C:\Users\Dima-\source\repos\МагазинОдежды\МагазинОдежды\obj\Debug\МагазинОдежды.csproj.GenerateResource.cache
+C:\Users\Dima-\source\repos\МагазинОдежды\МагазинОдежды\obj\Debug\МагазинОдежды.csproj.CoreCompileInputs.cache
+C:\Users\Dima-\source\repos\МагазинОдежды\МагазинОдежды\obj\Debug\МагазинОдежды.exe
+C:\Users\Dima-\source\repos\МагазинОдежды\МагазинОдежды\obj\Debug\МагазинОдежды.pdb
+C:\Users\Dima-\source\repos\МагазинОдежды\МагазинОдежды\obj\Debug\МагазинОдежды.Form3.resources
+C:\Users\Dima-\source\repos\МагазинОдежды\МагазинОдежды\obj\Debug\МагазинОдежды.Form4.resources
+C:\Users\Dima-\source\repos\МагазинОдежды\МагазинОдежды\obj\Debug\МагазинОдежды.Form5.resources
+C:\Users\Dima-\source\repos\МагазинОдежды\МагазинОдежды\obj\Debug\МагазинОдежды.Form7.resources
+C:\Users\Dima-\source\repos\МагазинОдежды\МагазинОдежды\obj\Debug\МагазинОдежды.Form6.resources
